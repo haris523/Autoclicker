@@ -1,0 +1,15 @@
+C:\Users\Haris\source\repos\Autoclicker\Autoclicker\bin\Debug\Autoclicker.exe.config
+C:\Users\Haris\source\repos\Autoclicker\Autoclicker\bin\Debug\Autoclicker.exe
+C:\Users\Haris\source\repos\Autoclicker\Autoclicker\bin\Debug\Autoclicker.pdb
+C:\Users\Haris\source\repos\Autoclicker\Autoclicker\obj\Debug\Autoclicker.csprojAssemblyReference.cache
+C:\Users\Haris\source\repos\Autoclicker\Autoclicker\obj\Debug\MainWindow.g.cs
+C:\Users\Haris\source\repos\Autoclicker\Autoclicker\obj\Debug\App.g.cs
+C:\Users\Haris\source\repos\Autoclicker\Autoclicker\obj\Debug\Autoclicker_MarkupCompile.cache
+C:\Users\Haris\source\repos\Autoclicker\Autoclicker\obj\Debug\Autoclicker_MarkupCompile.lref
+C:\Users\Haris\source\repos\Autoclicker\Autoclicker\obj\Debug\MainWindow.baml
+C:\Users\Haris\source\repos\Autoclicker\Autoclicker\obj\Debug\Autoclicker.g.resources
+C:\Users\Haris\source\repos\Autoclicker\Autoclicker\obj\Debug\Autoclicker.Properties.Resources.resources
+C:\Users\Haris\source\repos\Autoclicker\Autoclicker\obj\Debug\Autoclicker.csproj.GenerateResource.cache
+C:\Users\Haris\source\repos\Autoclicker\Autoclicker\obj\Debug\Autoclicker.csproj.CoreCompileInputs.cache
+C:\Users\Haris\source\repos\Autoclicker\Autoclicker\obj\Debug\Autoclicker.exe
+C:\Users\Haris\source\repos\Autoclicker\Autoclicker\obj\Debug\Autoclicker.pdb

@@ -1,0 +1,33 @@
+﻿<Window x:Class="Autoclicker.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Autoclicker"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="421.408"
+        Loaded="Form_Load"
+        Closing="Window_Closing"
+        >
+    <Grid Background="AliceBlue" Margin="0,0,2,1">
+        <TextBox HorizontalAlignment="Left" Height="23" Margin="25,72,0,0" TextWrapping="Wrap" Text="650" VerticalAlignment="Top" Width="120" Name="intervalDonja"/>
+        <TextBox HorizontalAlignment="Left" Height="23" Margin="171,72,0,0" TextWrapping="Wrap" Text="1500" VerticalAlignment="Top" Width="120" Name="intervalGornja"/>
+        <Label Content="Haris Autoclick" HorizontalAlignment="Left" Height="26" Margin="25,10,0,0" VerticalAlignment="Top" Width="303"/>
+        <Label Content="Set interval between clicks" HorizontalAlignment="Left" Margin="25,41,0,0" VerticalAlignment="Top"/>
+        <Label Content="Set holddown" HorizontalAlignment="Left" Margin="25,112,0,0" VerticalAlignment="Top"/>
+        <TextBox HorizontalAlignment="Left" Height="23" Margin="25,143,0,0" TextWrapping="Wrap" Text="100" VerticalAlignment="Top" Width="120" Name="holddownDonji"/>
+        <TextBox HorizontalAlignment="Left" Height="23" Margin="171,143,0,0" TextWrapping="Wrap" Text="300" VerticalAlignment="Top" Width="120" Name="holddownGornji"/>
+        <Label Content="Trigger afk every &#xD;&#xA;" HorizontalAlignment="Left" Margin="25,182,0,0" VerticalAlignment="Top" Height="26" Width="120"/>
+        <TextBox HorizontalAlignment="Left" Height="23" Margin="25,213,0,0" TextWrapping="Wrap" Text="1" VerticalAlignment="Top" Width="120" Name="triggerAfkDonji"/>
+        <TextBox HorizontalAlignment="Left" Height="23" Margin="171,211,0,0" TextWrapping="Wrap" Text="2" VerticalAlignment="Top" Width="120" Name="triggerAfkGornji"/>
+        <Label Content="Afk time" HorizontalAlignment="Left" Margin="25,252,0,0" VerticalAlignment="Top" RenderTransformOrigin="-0.144,0.051"/>
+        <TextBox HorizontalAlignment="Left" Height="23" Margin="25,283,0,0" TextWrapping="Wrap" Text="100" VerticalAlignment="Top" Width="120" Name="afkTimerDonji"/>
+        <TextBox HorizontalAlignment="Left" Height="23" Margin="171,283,0,0" TextWrapping="Wrap" Text="200" VerticalAlignment="Top" Width="120" Name="afkTimerGornji"/>
+        <Label Content="Miliseconds" HorizontalAlignment="Left" Height="23" Margin="309,72,0,0" VerticalAlignment="Top" Width="79"/>
+        <Label Content="Miliseconds" HorizontalAlignment="Left" Height="23" Margin="309,143,0,0" VerticalAlignment="Top" Width="79"/>
+        <Label Content="Minutes" HorizontalAlignment="Left" Height="23" Margin="309,211,0,0" VerticalAlignment="Top" Width="79"/>
+        <Label Content="Seconds" HorizontalAlignment="Left" Height="23" Margin="309,283,0,0" VerticalAlignment="Top" Width="79"/>
+        <Label Content="F5 to start or finish" HorizontalAlignment="Left" Height="30" Margin="43,353,0,0" VerticalAlignment="Top" Width="298"/>
+
+    </Grid>
+</Window>
